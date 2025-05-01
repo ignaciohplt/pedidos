@@ -1,0 +1,16 @@
+/* globals.css */
+
+/* Inputs blancos */
+input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #81d4fa;
+  background: #ffffff;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+/* Títulos de sección y página */
+h1, h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

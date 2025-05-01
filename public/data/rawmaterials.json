@@ -1,0 +1,2807 @@
+[
+  {
+    "code": "Código Hi Metal (MultiMetal)",
+    "description": "Articulo",
+    "price": "PRECIO POR KILO "
+  },
+  {
+    "code": "X0020120",
+    "description": "CAÑO 20X20X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "X0025120",
+    "description": "CAÑO 25X25X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "X0030120",
+    "description": "CAÑO 30X30X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "X0035120",
+    "description": "CAÑO 35X35X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "X0040120",
+    "description": "CAÑO 40X40X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "X0045120",
+    "description": "CAÑO 45X45X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "X0050120",
+    "description": "CAÑO 50X50X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "X0060120",
+    "description": "CAÑO 60X60X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Z0022120",
+    "description": "CAÑO RED 7/8\" X 1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Z0025120",
+    "description": "CAÑO RED 1\" X 1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Z0028120",
+    "description": "CAÑO RE 1\" 1/8 X 1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Z0031120",
+    "description": "CAÑO RED 1\" 1/4 X 1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Z0038120",
+    "description": "CAÑO RED 1\" 1/2 X 1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Z0041120",
+    "description": "CAÑO RED 1\" 5/8 X 1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Z0044120",
+    "description": "CAÑO RED 1\" 3/4 X 1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Z0050120",
+    "description": "CAÑO RED 2\" X 1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Z0057120",
+    "description": "CAÑO RED 2\" 1/4 X 1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Z0063120",
+    "description": "CAÑO RED 2\" 1/2 X 1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Z0076120",
+    "description": "CAÑO RED 3\" X 1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y1520120",
+    "description": "CAÑO REC 15X20X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y1030120",
+    "description": "CAÑO REC 10X30X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y1525120",
+    "description": "CAÑO REC 15X25X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y1530120",
+    "description": "CAÑO REC 15X30X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y1040120",
+    "description": "CAÑO REC 10X40X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y2030120",
+    "description": "CAÑO REC 20X30X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y2040120",
+    "description": "CAÑO REC 20X40X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y2050120",
+    "description": "CAÑO REC 20X50X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y3040120",
+    "description": "CAÑO REC 30X40X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y2550120",
+    "description": "CAÑO REC 25X50X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y2060120",
+    "description": "CAÑO REC 20X60X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y3050120",
+    "description": "CAÑO REC 30X50X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y3060120",
+    "description": "CAÑO REC 30X60X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y4050120",
+    "description": "CAÑO REC 40X50X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y3070120",
+    "description": "CAÑO REC 30X70X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y4060120",
+    "description": "CAÑO REC 40X60X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y2100120",
+    "description": "CAÑO REC 20X100X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y4080120",
+    "description": "CAÑO REC 40X80X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "Y5070120",
+    "description": "CAÑO REC 50X70X1,2",
+    "price": 1.352
+  },
+  {
+    "code": "X0020161",
+    "description": "CAÑO 20X20X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "X0025161",
+    "description": "CAÑO 25X25X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "X0030161",
+    "description": "CAÑO 30X30X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "X0035161",
+    "description": "CAÑO 35X35X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "X0040161",
+    "description": "CAÑO 40X40X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "X0045161",
+    "description": "CAÑO 45X45X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "X0050161",
+    "description": "CAÑO 50X50X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "X0060161",
+    "description": "CAÑO 60X60X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "X0070161",
+    "description": "CAÑO 70X70X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "X0080161",
+    "description": "CAÑO 80X80X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0022161",
+    "description": "CAÑO RED 7/8\" X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0025161",
+    "description": "CAÑO RED 1\" X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0028161",
+    "description": "CAÑO RED 1\" 1/8 X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0031161",
+    "description": "CAÑO RED 1\" 1/4 X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0038161",
+    "description": "CAÑO RED 1\" 1/2 X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0041161",
+    "description": "CAÑO RED 1\" 5/8 X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0044161",
+    "description": "CAÑO RED 1\" 3/4 X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0050161",
+    "description": "CAÑO RED 2\" X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0057161",
+    "description": "CAÑO RED 2\" 1/4 X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0063161",
+    "description": "CAÑO RED 2\" 1/2 X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0076161",
+    "description": "CAÑO RED 3\" X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0088161",
+    "description": "CAÑO RED 3\" 1/2 X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z101161",
+    "description": "CAÑO RED 4\" X 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y1520161",
+    "description": "CAÑO REC 15X20X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y1030161",
+    "description": "CAÑO REC 10X30X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y1525161",
+    "description": "CAÑO REC 15X25X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y1530161",
+    "description": "CAÑO REC 15X30X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y1040161",
+    "description": "CAÑO REC 10X40X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y2030161",
+    "description": "CAÑO REC 20X30X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y2040161",
+    "description": "CAÑO REC 20X40X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y2050161",
+    "description": "CAÑO REC 20X50X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y3040161",
+    "description": "CAÑO REC 30X40X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y2550161",
+    "description": "CAÑO REC 25X50X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y2060161",
+    "description": "CAÑO REC 20X60X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y3050161",
+    "description": "CAÑO REC 30X50X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y3060161",
+    "description": "CAÑO REC 30X60X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y4050161",
+    "description": "CAÑO REC 40X50X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y3070161",
+    "description": "CAÑO REC 30X70X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y4060161",
+    "description": "CAÑO REC 40X60X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y2100161",
+    "description": "CAÑO REC 20X100X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y4080161",
+    "description": "CAÑO REC 40X80X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y5070161",
+    "description": "CAÑO REC 50X70X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y4100161",
+    "description": "CAÑO REC 40X100X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y6080161",
+    "description": "CAÑO REC 60X80X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y5100161",
+    "description": "CAÑO REC 50X100X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y4120161",
+    "description": "CAÑO REC 40X120X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y6100161",
+    "description": "CAÑO REC 60X100X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Y6120161",
+    "description": "CAÑO REC 60X120X1,6",
+    "price": 1.352
+  },
+  {
+    "code": "X0015120",
+    "description": "CAÑO 15X15X1,2",
+    "price": 1.365
+  },
+  {
+    "code": "X0015161",
+    "description": "CAÑO 15X15X1,6",
+    "price": 1.365
+  },
+  {
+    "code": "X0010120",
+    "description": "CAÑO 10X10X1,2",
+    "price": 1.649
+  },
+  {
+    "code": "Z0019120",
+    "description": "CAÑO RED 3/4\" X 1,2",
+    "price": 1.365
+  },
+  {
+    "code": "Z0019161",
+    "description": "CAÑO RED 3/4\" X 1,6",
+    "price": 1.365
+  },
+  {
+    "code": "Z0035120",
+    "description": "CAÑO RED 1\" 3/8 X 1,2",
+    "price": 1.392
+  },
+  {
+    "code": "Z0035161",
+    "description": "CAÑO RED 1\" 3/8 X 1,6",
+    "price": 1.392
+  },
+  {
+    "code": "Z0015120",
+    "description": "CAÑO RED 5/8\" X 1,2",
+    "price": 1.46
+  },
+  {
+    "code": "Z0015161",
+    "description": "CAÑO RED 5/8\" X 1,6",
+    "price": 1.46
+  },
+  {
+    "code": "X0012120",
+    "description": "CAÑO 12X12X1,2",
+    "price": 1.46
+  },
+  {
+    "code": "X0012161",
+    "description": "CAÑO 12X12X1,6",
+    "price": 1.46
+  },
+  {
+    "code": "Z0012120",
+    "description": "CAÑO RED 1/2\" X 1,2",
+    "price": 1.649
+  },
+  {
+    "code": "Y1020120",
+    "description": "CAÑO REC 10X20X1,2",
+    "price": 1.365
+  },
+  {
+    "code": "Y1020161",
+    "description": "CAÑO REC 10X20X1,6",
+    "price": 1.365
+  },
+  {
+    "code": "Z0012090",
+    "description": "CAÑO RED 1/2\" X 0,9",
+    "price": 1.662
+  },
+  {
+    "code": "Z0015090",
+    "description": "CAÑO RED 5/8\" X 0,9",
+    "price": 1.473
+  },
+  {
+    "code": "Z0015110",
+    "description": "CAÑO RED 5/8\" X 1,1",
+    "price": 1.473
+  },
+  {
+    "code": "Z0019090",
+    "description": "CAÑO RED 3/4\" X 0,9",
+    "price": 1.379
+  },
+  {
+    "code": "Z0019110",
+    "description": "CAÑO RED 3/4\" X 1,1",
+    "price": 1.379
+  },
+  {
+    "code": "Z0022090",
+    "description": "CAÑO RED 7/8\" X 0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Z0022110",
+    "description": "CAÑO RED 7/8\" X 1,1",
+    "price": 1.365
+  },
+  {
+    "code": "Z0025090",
+    "description": "CAÑO RED 1\" X 0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Z0025110",
+    "description": "CAÑO RED 1\" X 1,1",
+    "price": 1.365
+  },
+  {
+    "code": "Z0028090",
+    "description": "CAÑO RED 1\" 1/8 X 0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Z0028110",
+    "description": "CAÑO RED 1\" 1/8 X 1,1",
+    "price": 1.365
+  },
+  {
+    "code": "Z0031090",
+    "description": "CAÑO RED 1\" 1/4 X 0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Z0031110",
+    "description": "CAÑO RED 1\" 1/4 X 1,1",
+    "price": 1.365
+  },
+  {
+    "code": "Z0038090",
+    "description": "CAÑO RED 1\" 1/2 X 0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Z0038110",
+    "description": "CAÑO RED 1\" 1/2 X 1,1",
+    "price": 1.365
+  },
+  {
+    "code": "Z0050090",
+    "description": "CAÑO RED 2\" X 0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Z0022201",
+    "description": "CAÑO RED 7/8\" X 2",
+    "price": 1.243
+  },
+  {
+    "code": "Z0025201",
+    "description": "CAÑO RED 1\" X 2",
+    "price": 1.231
+  },
+  {
+    "code": "X0020201",
+    "description": "CAÑO 20X20X2",
+    "price": 1.231
+  },
+  {
+    "code": "X0030201",
+    "description": "CAÑO 30X30X2",
+    "price": 1.219
+  },
+  {
+    "code": "Y2030201",
+    "description": "CAÑO REC 20X30X2",
+    "price": 1.219
+  },
+  {
+    "code": "X0025201",
+    "description": "CAÑO 25X25X2",
+    "price": 1.219
+  },
+  {
+    "code": "Z0035201",
+    "description": "CAÑO RED 1\" 3/8 X 2",
+    "price": 1.219
+  },
+  {
+    "code": "Z0038201",
+    "description": "CAÑO RED 1\" 1/2 X 2",
+    "price": 1.219
+  },
+  {
+    "code": "Y2040201",
+    "description": "CAÑO REC 20X40X2",
+    "price": 1.219
+  },
+  {
+    "code": "X0030201",
+    "description": "CAÑO 30X30X2",
+    "price": 1.219
+  },
+  {
+    "code": "Z0044201",
+    "description": "CAÑO RED 1\" 3/4 X 2",
+    "price": 1.219
+  },
+  {
+    "code": "Y2050201",
+    "description": "CAÑO REC 20X50X2",
+    "price": 1.219
+  },
+  {
+    "code": "Y3040201",
+    "description": "CAÑO REC 30X40X2",
+    "price": 1.219
+  },
+  {
+    "code": "Z0050201",
+    "description": "CAÑO RED 2\" X 2",
+    "price": 1.219
+  },
+  {
+    "code": "Y2060201",
+    "description": "CAÑO REC 20X60X2",
+    "price": 1.219
+  },
+  {
+    "code": "Y3050201",
+    "description": "CAÑO REC 30X50X2",
+    "price": 1.219
+  },
+  {
+    "code": "X0040201",
+    "description": "CAÑO 40X40X2",
+    "price": 1.219
+  },
+  {
+    "code": "Z0057201",
+    "description": "CAÑO RED 2\" 1/4 X 2",
+    "price": 1.219
+  },
+  {
+    "code": "Y3060201",
+    "description": "CAÑO REC 30X60X2",
+    "price": 1.219
+  },
+  {
+    "code": "Y4050201",
+    "description": "CAÑO REC 40X50X2",
+    "price": 1.219
+  },
+  {
+    "code": "Z0063201",
+    "description": "CAÑO RED 2\" 1/2 X 2",
+    "price": 1.219
+  },
+  {
+    "code": "Y3070201",
+    "description": "CAÑO REC 30X70X2",
+    "price": 1.219
+  },
+  {
+    "code": "Y4060201",
+    "description": "CAÑO REC 40X60X2",
+    "price": 1.219
+  },
+  {
+    "code": "X0050201",
+    "description": "CAÑO 50X50X2",
+    "price": 1.219
+  },
+  {
+    "code": "Z0076201",
+    "description": "CAÑO RED 3\" X 2",
+    "price": 1.219
+  },
+  {
+    "code": "Y4080201",
+    "description": "CAÑO REC 40X80X2",
+    "price": 1.219
+  },
+  {
+    "code": "Y5070201",
+    "description": "CAÑO REC 50X70X2",
+    "price": 1.219
+  },
+  {
+    "code": "X0060201",
+    "description": "CAÑO 60X60X2",
+    "price": 1.219
+  },
+  {
+    "code": "Z0088201",
+    "description": "CAÑO RED 3\" 1/2 X 2",
+    "price": 1.219
+  },
+  {
+    "code": "Y4100201",
+    "description": "CAÑO REC 40X100X2",
+    "price": 1.219
+  },
+  {
+    "code": "Y6080201",
+    "description": "CAÑO REC 60X80X2",
+    "price": 1.219
+  },
+  {
+    "code": "X0070201",
+    "description": "CAÑO 70X70X2",
+    "price": 1.219
+  },
+  {
+    "code": "Y5100201",
+    "description": "CAÑO REC 50X100X2",
+    "price": 1.219
+  },
+  {
+    "code": "Z0101201",
+    "description": "CAÑO RED 4\" X 2",
+    "price": 1.219
+  },
+  {
+    "code": "Y4120201",
+    "description": "CAÑO REC 40X120X2",
+    "price": 1.219
+  },
+  {
+    "code": "Y6100201",
+    "description": "CAÑO REC 60X100X2",
+    "price": 1.219
+  },
+  {
+    "code": "X0080201",
+    "description": "CAÑO 80X80X2",
+    "price": 1.219
+  },
+  {
+    "code": "Z0114201",
+    "description": "CAÑO RED 4\" 1/2 X 2",
+    "price": 1.219
+  },
+  {
+    "code": "Y6120201",
+    "description": "CAÑO REC 60X120X2",
+    "price": 1.219
+  },
+  {
+    "code": "X0100201",
+    "description": "CAÑO 100X100X2",
+    "price": 1.268
+  },
+  {
+    "code": "X0040321",
+    "description": "CAÑO 40X40X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "X0050321",
+    "description": "CAÑO 50X50X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "X0060321",
+    "description": "CAÑO 60X60X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "X0070321",
+    "description": "CAÑO 70X70X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "X0080321",
+    "description": "CAÑO 80X80X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "X0101321",
+    "description": "CAÑO 100X100X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "Y4060321",
+    "description": "CAÑO REC 40X60X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "Y5070321",
+    "description": "CAÑO REC 50X70X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "Y6080321",
+    "description": "CAÑO REC 60X80X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "Y4100321",
+    "description": "CAÑO REC 40X100X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "Y4120321",
+    "description": "CAÑO REC 40X120X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "Y5100321",
+    "description": "CAÑO REC 50X100X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "Y6100321",
+    "description": "CAÑO REC 60X100X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "Y6120321",
+    "description": "CAÑO REC 60X120X3,2",
+    "price": 1.182
+  },
+  {
+    "code": "x0100161",
+    "description": "CAÑO 100X100X1,6",
+    "price": 1.406
+  },
+  {
+    "code": "X0020090",
+    "description": "CAÑO 20X20X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "PI00080",
+    "description": "IPN 80 (x12m)",
+    "price": 1.269
+  },
+  {
+    "code": "PI00100",
+    "description": "IPN 100 (X12m)",
+    "price": 1.269
+  },
+  {
+    "code": "PI00120",
+    "description": "IPN 120 (x12m)",
+    "price": 1.323
+  },
+  {
+    "code": "PI00140",
+    "description": "IPN 140 (x12m)",
+    "price": 1.323
+  },
+  {
+    "code": "PI00160",
+    "description": "IPN 160 (x12m)",
+    "price": 1.323
+  },
+  {
+    "code": "PI00180",
+    "description": "IPN 180 (x12m)",
+    "price": 1.373
+  },
+  {
+    "code": "PI00200",
+    "description": "IPN 200 (x12m)",
+    "price": 1.373
+  },
+  {
+    "code": "PI00220",
+    "description": "IPN 220 (x12m)",
+    "price": 1.423
+  },
+  {
+    "code": "PI00240",
+    "description": "IPN 240 (x12m)",
+    "price": 1.423
+  },
+  {
+    "code": "PI00260",
+    "description": "IPN 260 (x12m)",
+    "price": 1.523
+  },
+  {
+    "code": "PI00280",
+    "description": "IPN 280 (x12m)",
+    "price": 1.523
+  },
+  {
+    "code": "PI00300",
+    "description": "IPN 300 (x12m)",
+    "price": 1.523
+  },
+  {
+    "code": "PU00080",
+    "description": "UPN 80 (x12m)",
+    "price": 1.269
+  },
+  {
+    "code": "PU00100",
+    "description": "UPN 100 (x12m)",
+    "price": 1.269
+  },
+  {
+    "code": "PU00120",
+    "description": "UPN 120 (x12m)",
+    "price": 1.269
+  },
+  {
+    "code": "PU00140",
+    "description": "UPN 140 (x12m)",
+    "price": 1.373
+  },
+  {
+    "code": "PU00160",
+    "description": "UPN 160 (x12m)",
+    "price": 1.373
+  },
+  {
+    "code": "PU00180",
+    "description": "UPN 180 (x12m)",
+    "price": 1.473
+  },
+  {
+    "code": "PU00200",
+    "description": "UPN 200 (x12m)",
+    "price": 1.473
+  },
+  {
+    "code": "PU00220",
+    "description": "UPN 220 (x12m)",
+    "price": 1.473
+  },
+  {
+    "code": "PU00240",
+    "description": "UPN 240 (x12m)",
+    "price": 1.473
+  },
+  {
+    "code": "PU00260",
+    "description": "UPN 260 (x12m)",
+    "price": 1.573
+  },
+  {
+    "code": "PU00280",
+    "description": "UPN 280 (x12m)",
+    "price": 1.773
+  },
+  {
+    "code": "PU00300",
+    "description": "UPN 300 (x12m)",
+    "price": 1.573
+  },
+  {
+    "code": "LR000635",
+    "description": "LAM RED 1/4\"",
+    "price": 1.393
+  },
+  {
+    "code": "LR000794",
+    "description": "LAM RED 5/16\"",
+    "price": 1.387
+  },
+  {
+    "code": "LR000954",
+    "description": "LAM RED 3/8\"",
+    "price": 1.524
+  },
+  {
+    "code": "LR001270",
+    "description": "LAM RED 1/2\"",
+    "price": 1.218
+  },
+  {
+    "code": "LR001430",
+    "description": "LAM RED 9/16\"",
+    "price": 1.319
+  },
+  {
+    "code": "LR001270S",
+    "description": "LAM RED 1/2\"",
+    "price": 1.164
+  },
+  {
+    "code": "LR001430S",
+    "description": "LAM RED 9/16\"",
+    "price": 1.187
+  },
+  {
+    "code": "P0019048",
+    "description": "PLANCHUELA 3/4\" X 3/16",
+    "price": 1.171
+  },
+  {
+    "code": "P0038063S",
+    "description": "PLANCHUELA 1\" 1/2 X 1/4",
+    "price": 1.236
+  },
+  {
+    "code": "P0050127",
+    "description": "PLANCHUELA 2\" X 1/2",
+    "price": 1.173
+  },
+  {
+    "code": "A0025032S",
+    "description": "ANGULO 1\" X 1/8",
+    "price": 1.22
+  },
+  {
+    "code": "TR000700",
+    "description": "TREFILADO 7 mm (x3m)",
+    "price": 1.74
+  },
+  {
+    "code": "TR000800",
+    "description": "TREFILADO 8 mm",
+    "price": 1.622
+  },
+  {
+    "code": "TR000900",
+    "description": "TREFILADO 9 mm",
+    "price": 1.622
+  },
+  {
+    "code": "TR001000",
+    "description": "TREFILADO 10 mm",
+    "price": 1.469
+  },
+  {
+    "code": "TR001200",
+    "description": "TREFILADO 12 mm",
+    "price": 1.469
+  },
+  {
+    "code": "P0050048",
+    "description": "PLANCHUELA 2\" X 3/16",
+    "price": 1.207
+  },
+  {
+    "code": "A0038048S",
+    "description": "ANGULO 1\" 1/2 X 3/16",
+    "price": 1.22
+  },
+  {
+    "code": "A0031032S",
+    "description": "ANGULO 1\" 1/4 X 1/8",
+    "price": 1.22
+  },
+  {
+    "code": "A0019032S",
+    "description": "ANGULO 3/4\" X 1/8",
+    "price": 1.22
+  },
+  {
+    "code": "A0022032S",
+    "description": "ANGULO 7/8\" X 1/8",
+    "price": 1.22
+  },
+  {
+    "code": "PC804016",
+    "description": "PERFIL CE 80X40X15X1,6 (x12m)",
+    "price": 1.32
+  },
+  {
+    "code": "PC804020",
+    "description": "PERFIL CE 80X40X15X2 (x12m)",
+    "price": 1.173
+  },
+  {
+    "code": "PC1004516",
+    "description": "PERFIL CE 100X45X15X1,6 (x12m)",
+    "price": 1.32
+  },
+  {
+    "code": "PC1004520",
+    "description": "PERFIL CE 100X45X15X2 (x12m)",
+    "price": 1.173
+  },
+  {
+    "code": "PC1005016",
+    "description": "PERFIL CE 100X50X15X1,6 (x12m)",
+    "price": 1.32
+  },
+  {
+    "code": "PC1005020",
+    "description": "PERFIL CE 100X50X15X2 (x12m)",
+    "price": 1.173
+  },
+  {
+    "code": "PC1205016",
+    "description": "PERFIL CE 120X50X15X1,6 (x12m)",
+    "price": 1.32
+  },
+  {
+    "code": "PC1205020",
+    "description": "PERFIL CE 120X50X15X2 (x12m)",
+    "price": 1.173
+  },
+  {
+    "code": "PC1205025",
+    "description": "PERFIL CE 120X50X15X2,5 (x12m)",
+    "price": 1.15
+  },
+  {
+    "code": "PC1406020",
+    "description": "PERFIL CE 140X60X20X2 (x12m)",
+    "price": 1.173
+  },
+  {
+    "code": "PC1406025",
+    "description": "PERFIL CE 140X60X20X2,5 (x12m)",
+    "price": 1.15
+  },
+  {
+    "code": "PC1406032",
+    "description": "PERFIL CE 140X60X20X3,2 (x12m)",
+    "price": 1.138
+  },
+  {
+    "code": "PC1606020",
+    "description": "PERFIL CE 160X60X20X2 (x12m)",
+    "price": 1.173
+  },
+  {
+    "code": "PC1606025",
+    "description": "PERFIL CE 160X60X20X2,5 (x12m)",
+    "price": 1.15
+  },
+  {
+    "code": "PC1606032",
+    "description": "PERFIL CE 160X60X20X3,2 (x12m)",
+    "price": 1.138
+  },
+  {
+    "code": "PC1807020",
+    "description": "PERFIL CE 180X70X25X2 (x12m)",
+    "price": 1.173
+  },
+  {
+    "code": "PC1807025",
+    "description": "PERFIL CE 180X70X25X2,5 (x12m)",
+    "price": 1.15
+  },
+  {
+    "code": "PC1807032",
+    "description": "PERFIL CE 180X70X25X3,2 (x12m)",
+    "price": 1.138
+  },
+  {
+    "code": "PC2008020",
+    "description": "PERFIL CE 200X80X25X2 (x12m)",
+    "price": 1.173
+  },
+  {
+    "code": "PC2008025",
+    "description": "PERFIL CE 200X80X25X2,5 (x12m)",
+    "price": 1.15
+  },
+  {
+    "code": "PC2008032",
+    "description": "PERFIL CE 200X80X25X3,2 (x12m)",
+    "price": 1.138
+  },
+  {
+    "code": "PCG804016",
+    "description": "PC GALVA 80X40X15X1,6 (x12m)",
+    "price": 1.438
+  },
+  {
+    "code": "PCG804020",
+    "description": "PC GALVA 80X40X15X2 (x12m)",
+    "price": 1.438
+  },
+  {
+    "code": "PCG1004016",
+    "description": "PC GALVA 100X40X15X1,6 (x12m)",
+    "price": 1.438
+  },
+  {
+    "code": "PCG1004020",
+    "description": "PC GALVA 100X40X15X2 (x12m)",
+    "price": 1.438
+  },
+  {
+    "code": "PCG1205016",
+    "description": "PC GALVA 120X50X15X1,6 (x12m)",
+    "price": 1.438
+  },
+  {
+    "code": "PCG1205020",
+    "description": "PC GALVA 120X50X15X2 (x12m)",
+    "price": 1.438
+  },
+  {
+    "code": "PCG1406016",
+    "description": "PC GALVA 140X60X20X1,6 (x12m)",
+    "price": 1.438
+  },
+  {
+    "code": "PCG1406020",
+    "description": "PC GALVA 140X60X20X2(x12m)",
+    "price": 1.438
+  },
+  {
+    "code": "PCG1606020",
+    "description": "PC GALVA 160X60X20X2 (x12m)",
+    "price": 1.438
+  },
+  {
+    "code": "PCG1807020",
+    "description": "PC GALVA 180X70X25X2 (x12m)",
+    "price": 1.438
+  },
+  {
+    "code": "PCG1807025",
+    "description": "PC GALVA 180X70X25X2,5 (x12m)",
+    "price": 1.438
+  },
+  {
+    "code": "PCG2008020",
+    "description": "PC GALVA 200X80X25X2 (x12m)",
+    "price": 1.438
+  },
+  {
+    "code": "F0024120",
+    "description": "CH LF 25 (0,55 mm) (1X2)",
+    "price": 1.444
+  },
+  {
+    "code": "F0020120",
+    "description": "CH LF 20 (0,9 mm) (1X2)",
+    "price": 1.366
+  },
+  {
+    "code": "F0018120",
+    "description": "CH LF 18 (1,2 mm) (1X2)",
+    "price": 1.353
+  },
+  {
+    "code": "F0016120",
+    "description": "CH LF 16 (1,6 mm) (1X2)",
+    "price": 1.353
+  },
+  {
+    "code": "F0014120",
+    "description": "CH LF 14 (2 mm) (1X2)",
+    "price": 1.366
+  },
+  {
+    "code": "F0024480",
+    "description": "CH LF 25 (0,55 mm) (1,22X2,44)",
+    "price": 1.405
+  },
+  {
+    "code": "F0022480",
+    "description": "CH LF 22 (0,7 mm) (1,22X2,44)",
+    "price": 1.366
+  },
+  {
+    "code": "F0020480",
+    "description": "CH LF 20 (0,9 mm) (1,22X2,44)",
+    "price": 1.327
+  },
+  {
+    "code": "F0018480",
+    "description": "CH LH 18 (1,2 mm) (1,22X2,44)",
+    "price": 1.314
+  },
+  {
+    "code": "F0016480",
+    "description": "CH LF 16 (1,6 mm) (1,22X2,44)",
+    "price": 1.314
+  },
+  {
+    "code": "F0014480",
+    "description": "CH LF 14 (2 mm) (1,22X2,44)",
+    "price": 1.327
+  },
+  {
+    "code": "F0012480",
+    "description": "CH LF 12 (2,5 mm) (1,22X2,44)",
+    "price": 1.327
+  },
+  {
+    "code": "N014120",
+    "description": "CH LC 14 (2 mm) (1X2)",
+    "price": 1.157
+  },
+  {
+    "code": "N014480",
+    "description": "CH LC 14 (2 mm) (1,245X2,44)",
+    "price": 1.124
+  },
+  {
+    "code": "N012120",
+    "description": "CH LC 12 (2,5 mm) (1X2)",
+    "price": 1.135
+  },
+  {
+    "code": "N012153",
+    "description": "CH LC 12 (2,5 mm) (1,245X3,000)",
+    "price": 1.103
+  },
+  {
+    "code": "N032120",
+    "description": "CH LC 1/8\" (3,2 mm) (1 X 2)",
+    "price": 1.124
+  },
+  {
+    "code": "N032480",
+    "description": "CH LC 1/8\" (3,2 mm) (1,245X2,44)",
+    "price": 1.092
+  },
+  {
+    "code": "N032153",
+    "description": "CH LC 1/8\" (3,2 mm) (1,50X3)",
+    "price": 1.081
+  },
+  {
+    "code": "N048120",
+    "description": "CH LC 3/16\" (4,75 mm) (1X2)",
+    "price": 1.114
+  },
+  {
+    "code": "N048153",
+    "description": "CH LC 3/16\" (4,75 mm) (1,50X3)",
+    "price": 1.07
+  },
+  {
+    "code": "N063120",
+    "description": "CH LC 1/4\" (6,35 mm) (1X2)",
+    "price": 1.124
+  },
+  {
+    "code": "N063153",
+    "description": "CH LC 1/4\" (6,35 mm) (1,50X3)",
+    "price": 1.081
+  },
+  {
+    "code": "N079153",
+    "description": "CH LC 5/16\" (7,94 mm) (1,50X3)",
+    "price": 1.081
+  },
+  {
+    "code": "N095153",
+    "description": "CH LC 3/8\" (9,52 mm) (1,50X3)",
+    "price": 1.092
+  },
+  {
+    "code": "N127153",
+    "description": "CH LC 1/2\" (12,7 mm) (1,50X3)",
+    "price": 1.092
+  },
+  {
+    "code": "NA032480",
+    "description": "CH A/D 1/8\" (1,245 X 2,440)",
+    "price": 1.2
+  },
+  {
+    "code": "P0025032S",
+    "description": "PLANCHUELA 1\" X 1/8",
+    "price": 1.236
+  },
+  {
+    "code": "CHAC25",
+    "description": "CHAPA ACANALADA (X1m)",
+    "price": 7.59
+  },
+  {
+    "code": "X0030090",
+    "description": "CAÑO 30X30X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "MD623060",
+    "description": "M/D 620-30-60 (1,50 X 3)",
+    "price": 106.47
+  },
+  {
+    "code": "MD623030",
+    "description": "M/D 620-30-30 (1,50 X 3)",
+    "price": 60.31
+  },
+  {
+    "code": "MD503030",
+    "description": "M/D 500-30-30 (1,50 X 3)",
+    "price": 67.4
+  },
+  {
+    "code": "MD453030",
+    "description": "M/D 450-30-30 (1,50 X 3)",
+    "price": 75.5
+  },
+  {
+    "code": "MD452030",
+    "description": "M/D 450-20-30 (1,245 X 2,440)",
+    "price": 43.37
+  },
+  {
+    "code": "MD271620",
+    "description": "M/D 270-16-20 (1 X 3)",
+    "price": 40.37
+  },
+  {
+    "code": "MD273030",
+    "description": "M/D 270-30-30 (1 X 3)",
+    "price": 97.24
+  },
+  {
+    "code": "X0010090",
+    "description": "CAÑO 10X10X0,9",
+    "price": 1.662
+  },
+  {
+    "code": "X0025090",
+    "description": "CAÑO 25X25X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "X0040090",
+    "description": "CAÑO 40X40X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Y1020090",
+    "description": "CAÑO REC 10X20X0,9",
+    "price": 1.379
+  },
+  {
+    "code": "Y1030090",
+    "description": "CAÑO REC 10X30X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Y2030090",
+    "description": "CAÑO REC 20X30X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Y2040090",
+    "description": "CAÑO REC 20X40X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Y2050090",
+    "description": "CAÑO REC 20X50X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Y2060090",
+    "description": "CAÑO REC 20X60X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Y1520090",
+    "description": "CAÑO REC 15X20X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Y1525090",
+    "description": "CAÑO REC 15X25X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Y1530090",
+    "description": "CAÑO REC 15X30X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Y3040090",
+    "description": "CAÑO REC 30X40X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Y3050090",
+    "description": "CAÑO REC 30X50X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Y4050090",
+    "description": "CAÑO REC 40X50X0,9",
+    "price": 1.365
+  },
+  {
+    "code": "Z0079090",
+    "description": "CAÑO RED 3\" X 0,9",
+    "price": 1.365
+  },
+  {
+    "code": "ZN0019251",
+    "description": "USO MECANICO 3/4\"(26,75X2,5)",
+    "price": 1.28
+  },
+  {
+    "code": "ZN0025285",
+    "description": "USO MECANICO 1\" (33,7 X 2,85)",
+    "price": 1.28
+  },
+  {
+    "code": "ZN0031285",
+    "description": "USO MECAN 1\" 1/4 (42,4 X2,85)",
+    "price": 1.28
+  },
+  {
+    "code": "ZN0038285",
+    "description": "USO MECAN 1\"1/2 (48,3 X 2,85)",
+    "price": 1.28
+  },
+  {
+    "code": "ZN0050285",
+    "description": "USO MECAN 2\" (60,3 X 2,85)",
+    "price": 1.28
+  },
+  {
+    "code": "GL020120",
+    "description": "CH GALVA 20 (1 X 2)",
+    "price": 1.548
+  },
+  {
+    "code": "GL018120",
+    "description": "CH GALVA 18 (1 X 2)",
+    "price": 1.518
+  },
+  {
+    "code": "GL016120",
+    "description": "CH GALVA 16 (1 X 2)",
+    "price": 1.503
+  },
+  {
+    "code": "GL014120",
+    "description": "CH GALVA 14 (1 X 2)",
+    "price": 1.503
+  },
+  {
+    "code": "GL012120",
+    "description": "CH GALVA 12 (1 X 2)",
+    "price": 1.474
+  },
+  {
+    "code": "GL027048",
+    "description": "CH GALVA 27 (1,22 X 2,44)",
+    "price": 1.695
+  },
+  {
+    "code": "GL025048",
+    "description": "CH GALVA 25 (1,22 X 2,44)",
+    "price": 1.562
+  },
+  {
+    "code": "GL022048",
+    "description": "CH GALVA 22 (1,22 X 2,44)",
+    "price": 1.568
+  },
+  {
+    "code": "GL020048",
+    "description": "CH GALVA 20 (1,22 X 2,44)",
+    "price": 1.503
+  },
+  {
+    "code": "GL018048",
+    "description": "CH GALVA 18 (1,22 X 2,44)",
+    "price": 1.474
+  },
+  {
+    "code": "GL016048",
+    "description": "CH GALVA 16 (1,22 X 2,44)",
+    "price": 1.459
+  },
+  {
+    "code": "GL014048",
+    "description": "CH GALVA 14 (1,22 X 2,44)",
+    "price": 1.459
+  },
+  {
+    "code": "GL012048",
+    "description": "CH GALVA 12 (1,22 X 2,44)",
+    "price": 1.43
+  },
+  {
+    "code": "PW15013",
+    "description": "PERFIL W 150X13 (X12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW15018",
+    "description": "PERFIL W 150X18 (X12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW15022",
+    "description": "PERFIL W 150X22,5 (X12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW15029",
+    "description": "PERFIL W 150X29,8 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW20015",
+    "description": "PERFIL W 200X15 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW20019",
+    "description": "PERFIL W 200X19,3 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW20022",
+    "description": "PERFIL W 200X22,5 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW20026",
+    "description": "PERFIL W 200X26,6 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW20031",
+    "description": "PERFIL W 200X31,3 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW20035",
+    "description": "PERFIL W 200X35,9 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW20046",
+    "description": "PERFIL W 200X46,1 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW20053",
+    "description": "PERFIL W 200X53 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW20059",
+    "description": "PERFIL W 200X59 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW25017",
+    "description": "PERFIL W 250X17,9 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW25022",
+    "description": "PERFIL W 250X22,3 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW25025",
+    "description": "PERFIL W 250X25,3 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW25028",
+    "description": "PERFIL W 250X28,4 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW25032",
+    "description": "PERFIL W 250X32,7 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW25038",
+    "description": "PERFIL W 250X38,5 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW25044",
+    "description": "PERFIL W 250X44,8 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW25062",
+    "description": "PERFIL W 250X62 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW25073",
+    "description": "PERFIL W 250X73 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW25089",
+    "description": "PERFIL W 250X89 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW31021",
+    "description": "PERFIL W 310X21 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW31023",
+    "description": "PERFIL W 310X23,8 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW31028",
+    "description": "PERFIL W 310X28,3 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW31032",
+    "description": "PERFIL W 310X32,7 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW31038",
+    "description": "PERFIL W 310X38,7 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW31044",
+    "description": "PERFIL W 310X44,5 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW31052",
+    "description": "PERFIL W 310X52 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW31074",
+    "description": "PERFIL W 310X74 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW31079",
+    "description": "PERFIL W 310X79 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW31097",
+    "description": "PERFIL W 310X97 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW310110",
+    "description": "PERFIL W 310X110 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW310129",
+    "description": "PERFIL W 310X129 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW310142",
+    "description": "PERFIL W 310X142,8 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW310179",
+    "description": "PERFIL W 310X179 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW36032",
+    "description": "PERFIL W 360X32,9 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW36039",
+    "description": "PERFIL W 360X39 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW36044",
+    "description": "PERFIL W 360X44,6 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW36051",
+    "description": "PERFIL W 360X51 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW36064",
+    "description": "PERFIL W 360X64 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW36079",
+    "description": "PERFIL W 360X79 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW36090",
+    "description": "PERFIL W 360X90,7 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW360101",
+    "description": "PERFIL W 360X101 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW360110",
+    "description": "PERFIL W 360X110 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW360134",
+    "description": "PERFIL W 360X134 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW360196",
+    "description": "PERFIL W 360X196 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW41038",
+    "description": "PERFIL W 410X38,8 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW41046",
+    "description": "PERFIL W 410X46,1 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW41053",
+    "description": "PERFIL W 410X53 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW41060",
+    "description": "PERFIL W 410X60 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW41067",
+    "description": "PERFIL W 410X67 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW41075",
+    "description": "PERFIL W 410X75 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW41085",
+    "description": "PERFIL W 410X85 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW410100",
+    "description": "PERFIL W 410X100 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW46052",
+    "description": "PERFIL W 460X52 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW46060",
+    "description": "PERFIL W 460X60 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW46074",
+    "description": "PERFIL W 460X74 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW46089",
+    "description": "PERFIL W 460X89 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW460106",
+    "description": "PERFIL W 460X106 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW53066",
+    "description": "PERFIL W 530X66 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW53072",
+    "description": "PERFIL W 530X72 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW53074",
+    "description": "PERFIL W 530X74 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW53085",
+    "description": "PERFIL W 530X85 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW53092",
+    "description": "PERFIL W 530X92 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW530138",
+    "description": "PERFIL W 530X138 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW61082",
+    "description": "PERFIL W 610X82 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW610101",
+    "description": "PERFIL W 610X101 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW610113",
+    "description": "PERFIL W 610X113 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW610125",
+    "description": "PERFIL W 610X125 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW610140",
+    "description": "PERFIL W 610X140 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW610153",
+    "description": "PERFIL W 610X153 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW610155",
+    "description": "PERFIL W 610X155 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "PW610174",
+    "description": "PERFIL W 610X174 (x12m)",
+    "price": 1.355
+  },
+  {
+    "code": "MS25206M",
+    "description": "MALLA SOLD 25X25X2,6 (1,20x3)",
+    "price": 31.3
+  },
+  {
+    "code": "MS50206M",
+    "description": "MALLA SOLD 50X50X2,6 (1,20x3)",
+    "price": 18.27
+  },
+  {
+    "code": "MS50300M",
+    "description": "MALLA SOLD 50X50X3 (1,20x3)",
+    "price": 22.3
+  },
+  {
+    "code": "X0015090",
+    "description": "CAÑO 15X15X0,9",
+    "price": 1.379
+  },
+  {
+    "code": "X0012090",
+    "description": "CAÑO 12X12X0,9",
+    "price": 1.473
+  },
+  {
+    "code": "CHTR25",
+    "description": "CHAPA TRAPEZOIDAL (x1m)",
+    "price": 8
+  },
+  {
+    "code": "LR00954S",
+    "description": "LAM RED 3/8\"",
+    "price": 1.21
+  },
+  {
+    "code": "DN000600",
+    "description": "HIERRO D/N 6mm (x12m)",
+    "price": 1.347
+  },
+  {
+    "code": "DN000800",
+    "description": "HIERRO D/N 8mm (x12m)",
+    "price": 1.309
+  },
+  {
+    "code": "DN001000",
+    "description": "HIERRO D/N 10mm (x12m)",
+    "price": 1.309
+  },
+  {
+    "code": "DN001200",
+    "description": "HIERRO D/N 12mm (x12m)",
+    "price": 1.299
+  },
+  {
+    "code": "DN001600",
+    "description": "HIERRO D/N 16mm (x12m)",
+    "price": 1.285
+  },
+  {
+    "code": "MS151540",
+    "description": "MALLA SIMA 150X150X4 (3x2)",
+    "price": 10.83
+  },
+  {
+    "code": "A0025048S",
+    "description": "ANGULO 1\" x 3/16",
+    "price": 1.22
+  },
+  {
+    "code": "A0012032M",
+    "description": "ANGULO 1/2\" x 1/8",
+    "price": 2.113
+  },
+  {
+    "code": "A0015032E",
+    "description": "ANGULO 5/8\" x 1/8",
+    "price": 1.63
+  },
+  {
+    "code": "A0038032S",
+    "description": "ANGULO 1\" 1/2 x 1/8",
+    "price": 1.22
+  },
+  {
+    "code": "A0044032M",
+    "description": "ANGULO 1\" 3/4 x 1/8",
+    "price": 1.757
+  },
+  {
+    "code": "A0050032S",
+    "description": "ANGULO 2\" x 1/8",
+    "price": 1.22
+  },
+  {
+    "code": "A0031048S",
+    "description": "ANGULO 1\" 1/4 x 3/16",
+    "price": 1.22
+  },
+  {
+    "code": "A0044048M",
+    "description": "ANGULO 1\" 3/4 x 3/16",
+    "price": 1.65
+  },
+  {
+    "code": "A0050048S",
+    "description": "ANGULO 2\" x 3/16",
+    "price": 1.22
+  },
+  {
+    "code": "A0063048M",
+    "description": "ANGULO 2\" 1/2 x 3/16",
+    "price": 1.65
+  },
+  {
+    "code": "A0076063M",
+    "description": "ANGULO 3\" x 1/4",
+    "price": 1.718
+  },
+  {
+    "code": "P0012032E",
+    "description": "PLANCHUELA 1/2\" x 1/8",
+    "price": 1.725
+  },
+  {
+    "code": "P0012048M",
+    "description": "PLANCHUELA 1/2\" x 3/16",
+    "price": 2.279
+  },
+  {
+    "code": "P0012063M",
+    "description": "PLANCHUELA 1/2\" x 1/4",
+    "price": 2.254
+  },
+  {
+    "code": "P0015032E",
+    "description": "PLANCHUELA 5/8\" x 1/8",
+    "price": 1.677
+  },
+  {
+    "code": "P0015048M",
+    "description": "PLANCHUELA 5/8\" x 3/16",
+    "price": 2.201
+  },
+  {
+    "code": "P0015063M",
+    "description": "PLANCHUELA 5/8\" x 1/4",
+    "price": 2.204
+  },
+  {
+    "code": "P0019032E",
+    "description": "PLANCHUELA 3/4\" x 1/8",
+    "price": 1.524
+  },
+  {
+    "code": "P0019048M",
+    "description": "PLANCHUELA 3/4\" x 3/16",
+    "price": 1.463
+  },
+  {
+    "code": "P0019063M",
+    "description": "PLANCHUELA 3/4\" x 1/4",
+    "price": 1.689
+  },
+  {
+    "code": "P0022032M",
+    "description": "PLANCHUELA 7/8\" x 1/8",
+    "price": 1.868
+  },
+  {
+    "code": "P0022048M",
+    "description": "PLANCHUELA 7/8\" x 3/16",
+    "price": 1.768
+  },
+  {
+    "code": "P0022063M",
+    "description": "PLANCHUELA 7/8\" x 1/4",
+    "price": 1.695
+  },
+  {
+    "code": "P0025032E",
+    "description": "PLANCHUELA 1\" X 1/8",
+    "price": 1.495
+  },
+  {
+    "code": "P0025063S",
+    "description": "PLANCHUELA 1\" x 1/4",
+    "price": 1.236
+  },
+  {
+    "code": "P0025079M",
+    "description": "PLANCHUELA 1\" x 5/16",
+    "price": 1.697
+  },
+  {
+    "code": "P0025095M",
+    "description": "PLANCHUELA 1\" x 3/8",
+    "price": 1.711
+  },
+  {
+    "code": "P0025127M",
+    "description": "PLANCHUELA 1\" x 1/2",
+    "price": 1.698
+  },
+  {
+    "code": "P0031032M",
+    "description": "PLANCHUELA 1\" 1/4 x 1/8",
+    "price": 1.534
+  },
+  {
+    "code": "P0031048E",
+    "description": "PLANCHUELA 1\" 1/4 x 3/16",
+    "price": 1.411
+  },
+  {
+    "code": "P0031063E",
+    "description": "PLANCHUELA 1\" 1/4 x 1/4",
+    "price": 1.374
+  },
+  {
+    "code": "P0031079M",
+    "description": "PLANCHUELA 1\" 1/4 x 5/16",
+    "price": 1.711
+  },
+  {
+    "code": "P0031095M",
+    "description": "PLANCHUELA 1\" 1/4 x 3/8",
+    "price": 1.698
+  },
+  {
+    "code": "P0031127M",
+    "description": "PLANCHUELA 1\" 1/4 x 1/2",
+    "price": 1.711
+  },
+  {
+    "code": "P0038032M",
+    "description": "PLANCHUELA 1\" 1/2 x 1/8",
+    "price": 1.472
+  },
+  {
+    "code": "P0038048E",
+    "description": "PLANCHUELA 1\" 1/2 x 3/16",
+    "price": 1.375
+  },
+  {
+    "code": "P0038079M",
+    "description": "PLANCHUELA 1\" 1/2 x 5/16",
+    "price": 1.689
+  },
+  {
+    "code": "P0038095M",
+    "description": "PLANCHUELA 1\" 1/2 x 3/8",
+    "price": 1.425
+  },
+  {
+    "code": "P0038127M",
+    "description": "PLANCHUELA 1\" 1/2 x 1/2",
+    "price": 1.672
+  },
+  {
+    "code": "P0044032M",
+    "description": "PLANCHUELA 1\" 3/4 x 1/8",
+    "price": 1.969
+  },
+  {
+    "code": "P0044048E",
+    "description": "PLANCHUELA 1\" 3/4 x 3/16",
+    "price": 1.536
+  },
+  {
+    "code": "P0044063M",
+    "description": "PLANCHUELA 1\" 3/4 x 1/4",
+    "price": 1.678
+  },
+  {
+    "code": "P0044079M",
+    "description": "PLANCHUELA 1\" 3/4 x 5/16",
+    "price": 1.696
+  },
+  {
+    "code": "P0044095M",
+    "description": "PLANCHUELA 1\" 3/4 x 3/8",
+    "price": 1.672
+  },
+  {
+    "code": "P0044127M",
+    "description": "PLANCHUELA 1\" 3/4 x 1/2",
+    "price": 1.698
+  },
+  {
+    "code": "P0050032M",
+    "description": "PLANCHUELA 2\" x 1/8",
+    "price": 1.839
+  },
+  {
+    "code": "P0050063E",
+    "description": "PLANCHUELA 2\" x 1/4",
+    "price": 1.398
+  },
+  {
+    "code": "P0050079M",
+    "description": "PLANCHUELA 2\" x 5/16",
+    "price": 1.598
+  },
+  {
+    "code": "P0050095M",
+    "description": "PLANCHUELA 2\" x 3/8",
+    "price": 1.514
+  },
+  {
+    "code": "P0063032M",
+    "description": "PLANCHUELA 2\" 1/2 x 1/8",
+    "price": 1.844
+  },
+  {
+    "code": "P0063048M",
+    "description": "PLANCHUELA 2\" 1/2 x 3/16",
+    "price": 1.652
+  },
+  {
+    "code": "P0063063M",
+    "description": "PLANCHUELA 2\" 1/2 x 1/4",
+    "price": 1.675
+  },
+  {
+    "code": "P0063079M",
+    "description": "PLANCHUELA 2\" 1/2 x 5/16",
+    "price": 1.675
+  },
+  {
+    "code": "P0063095M",
+    "description": "PLANCHUELA 2\" 1/2 x 3/8",
+    "price": 1.632
+  },
+  {
+    "code": "P0063127M",
+    "description": "PLANCHUELA 2\" 1/2 x 1/2",
+    "price": 1.552
+  },
+  {
+    "code": "P0076032M",
+    "description": "PLANCHUELA 3\" x 1/8",
+    "price": 2.103
+  },
+  {
+    "code": "P0076048M",
+    "description": "PLANCHUELA 3\" x 3/16",
+    "price": 1.621
+  },
+  {
+    "code": "P0076063M",
+    "description": "PLANCHUELA 3\" x 1/4",
+    "price": 1.448
+  },
+  {
+    "code": "P0076079M",
+    "description": "PLANCHUELA 3\" x 5/16",
+    "price": 1.721
+  },
+  {
+    "code": "P0076095M",
+    "description": "PLANCHUELA 3\" x 3/8",
+    "price": 1.721
+  },
+  {
+    "code": "P0076127M",
+    "description": "PLANCHUELA 3\" x 1/2",
+    "price": 1.684
+  },
+  {
+    "code": "P0101032M",
+    "description": "PLANCHUELA 4\" x 1/8",
+    "price": 2.103
+  },
+  {
+    "code": "P0101048E",
+    "description": "PLANCHUELA 4\" x 3/16",
+    "price": 2.054
+  },
+  {
+    "code": "P0101063M",
+    "description": "PLANCHUELA 4\" x 1/4",
+    "price": 1.986
+  },
+  {
+    "code": "P0101079M",
+    "description": "PLANCHUELA 4\" x 5/16",
+    "price": 1.876
+  },
+  {
+    "code": "P0101095M",
+    "description": "PLANCHUELA 4\" x 3/8",
+    "price": 1.721
+  },
+  {
+    "code": "P0101127M",
+    "description": "PLANCHUELA 4\" x 1/2",
+    "price": 1.772
+  },
+  {
+    "code": "T0019032M",
+    "description": "HIERRO TE 3/4\" x 1/8",
+    "price": 1.867
+  },
+  {
+    "code": "T0022032E",
+    "description": "HIERRO TE 7/8\" x 1/8",
+    "price": 2.017
+  },
+  {
+    "code": "T0025032M",
+    "description": "HIERRO TE 1\" x 1/8",
+    "price": 1.765
+  },
+  {
+    "code": "T0031032M",
+    "description": "HIERRO TE 1\" 1/4 x 1/8",
+    "price": 1.836
+  },
+  {
+    "code": "T0031048M",
+    "description": "HIERRO TE 1\" 1/4 x 3/16",
+    "price": 1.816
+  },
+  {
+    "code": "T0038032M",
+    "description": "HIERRO TE 1\" 1/2 x 1/8",
+    "price": 1.738
+  },
+  {
+    "code": "T0038048M",
+    "description": "HIERRO TE 1\" 1/2 x 3/16",
+    "price": 1.807
+  },
+  {
+    "code": "T0050048M",
+    "description": "HIERRO TE 2\" x 3/16",
+    "price": 1.987
+  },
+  {
+    "code": "T0050063M",
+    "description": "HIERRO TE 2\" x 1/4",
+    "price": 2.056
+  },
+  {
+    "code": "LR001580E",
+    "description": "LAM RED 5/8\"",
+    "price": 1.335
+  },
+  {
+    "code": "LR001910M",
+    "description": "LAM RED 3/4\"",
+    "price": 1.474
+  },
+  {
+    "code": "LR002540M",
+    "description": "LAM RED 1\"",
+    "price": 1.658
+  },
+  {
+    "code": "LC000950M",
+    "description": "LAM CUAD 3/8\"",
+    "price": 2.198
+  },
+  {
+    "code": "LC001270M",
+    "description": "LAM CUAD 1/2\"",
+    "price": 1.595
+  },
+  {
+    "code": "LC001430M",
+    "description": "LAM CUAD 9/16\"",
+    "price": 1.719
+  },
+  {
+    "code": "LC001580M",
+    "description": "LAM CUAD 5/8\"",
+    "price": 1.704
+  },
+  {
+    "code": "LC001910M",
+    "description": "LAM CUAD 3/4\"",
+    "price": 1.553
+  },
+  {
+    "code": "LC002540B",
+    "description": "LAM CUAD 1\"",
+    "price": 1.303
+  },
+  {
+    "code": "TR001700",
+    "description": "TREFILADO 17 mm (x6m)",
+    "price": 1.88
+  },
+  {
+    "code": "TR000400",
+    "description": "TREFILADO 4 mm (x3m)",
+    "price": 2.666
+  },
+  {
+    "code": "TR000600",
+    "description": "TREFILADO 6 mm (x3m)",
+    "price": 1.74
+  },
+  {
+    "code": "CHTRNE",
+    "description": "CH TRAPEZOIDAL NEGRA (x1m)",
+    "price": 12.5
+  },
+  {
+    "code": "TR000500",
+    "description": "TREFILADO 5 mm (x3m)",
+    "price": 1.74
+  },
+  {
+    "code": "LR000954S",
+    "description": "LAM RED 3/8\"",
+    "price": 1.21
+  },
+  {
+    "code": "MD5003030M",
+    "description": "M/D 500-30-30 (1 X 2)",
+    "price": 23.678
+  },
+  {
+    "code": "Z0031201",
+    "description": "CAÑO RED 1\" 1/4 x 2",
+    "price": 1.219
+  },
+  {
+    "code": "CHTRNE",
+    "description": "CH TRAPEZOIDAL NEGRA (x1m)",
+    "price": 12.14
+  },
+  {
+    "code": "BOBINA",
+    "description": "ROLLO LISA CINC.C25 x1,22 x 25m",
+    "price": 254.2
+  },
+  {
+    "code": "P0025048S",
+    "description": "PLANCHUELA 1\" x 3/16",
+    "price": 1.236
+  },
+  {
+    "code": "Z0050321",
+    "description": "CAÑO RED 2\" x 3,2",
+    "price": 1.182
+  },
+  {
+    "code": "Z0063321",
+    "description": "CAÑO RED 2\" 1/2 x 3,2",
+    "price": 1.182
+  },
+  {
+    "code": "Z0047161",
+    "description": "CAÑO RED 1\" 7/8 x 1,6",
+    "price": 1.352
+  },
+  {
+    "code": "Z0035201",
+    "description": "CAÑO RED 1\" 3/8 x 2",
+    "price": 1.255
+  },
+  {
+    "code": "PAR122548",
+    "description": "PL PERF RED 1/2\" (1\" x 3/16)",
+    "price": 1.977
+  },
+  {
+    "code": "A0050063M",
+    "description": "ÁNGULO 2\" x 1/4",
+    "price": 1.554
+  },
+  {
+    "code": "Z0025202",
+    "description": "CAÑO RED 1\" x 2 DEC",
+    "price": 1.305
+  },
+  {
+    "code": "Y8100201",
+    "description": "CAÑO RECT 80x100x2",
+    "price": 1.219
+  },
+  {
+    "code": "A0063063M",
+    "description": "ANGULO 2\" 1/2 x 1/4",
+    "price": 1.577
+  },
+  {
+    "code": "TR002540",
+    "description": "TREFILADO 25 mm (x6m)",
+    "price": 1.779
+  },
+  {
+    "code": "Y3070321",
+    "description": "CAÑO RECT 30x70x3,2",
+    "price": 1.182
+  },
+  {
+    "code": "TR000704",
+    "description": "TREFILADO 7mm (x4m)",
+    "price": 1.74
+  },
+  {
+    "code": "CHACNE",
+    "description": "CHAPA ACANALADA NEGRA",
+    "price": 11.95
+  },
+  {
+    "code": "LR002540S",
+    "description": "LAM RED 1\"",
+    "price": 1.176
+  },
+  {
+    "code": "P0038095",
+    "description": "PLANCHUELA 1\" 1/2 x 3/8",
+    "price": 1.391
+  },
+  {
+    "code": "P0019032S",
+    "description": "PLANCHUELA 3/4\" x 1/8",
+    "price": 1.33
+  },
+  {
+    "code": "A0050048S",
+    "description": "ÁNGULO 2\" x 3/16",
+    "price": 1.22
+  },
+  {
+    "code": "TR001905M",
+    "description": "TREFILADO 19,05 mm (x6m)",
+    "price": 1.755
+  },
+  {
+    "code": "A0038063M",
+    "description": "ANGULO 1\" 1/2 x 1/4",
+    "price": 1.466
+  },
+  {
+    "code": "NA048156",
+    "description": "CHAPA A/D 3/16\" (1.50 x 6)",
+    "price": 1.179
+  },
+  {
+    "code": "PAR123148",
+    "description": "PLANCH PERF RED 1/2\" (1\"1/4x3/16)",
+    "price": 1.78
+  },
+  {
+    "code": "MS152540",
+    "description": "MALLA SIMA 150x250x4 (3x2)",
+    "price": 9.28
+  },
+  {
+    "code": "F0018153",
+    "description": "CHAPA LF 18 (1,50 x 3)",
+    "price": 1.301
+  },
+  {
+    "code": "MS050260",
+    "description": "MALLA SOLD 50x50x2,6 (1,20x3)",
+    "price": 15.02
+  },
+  {
+    "code": "LR001580",
+    "description": "LAM RED 5/8\" (x6m)",
+    "price": 1.446
+  },
+  {
+    "code": "CHPERF20",
+    "description": "CH PERF RED 5mm P8 (1,22 x 2,44)",
+    "price": 76.8
+  },
+  {
+    "code": "X0120475",
+    "description": "CAÑO CUAD 120 x 120 x 4,75",
+    "price": 1.463
+  },
+  {
+    "code": "LC003170B",
+    "description": "LAM CUAD 1\" 1/4",
+    "price": 1.303
+  },
+  {
+    "code": "LC003810B",
+    "description": "LAM CUAD 1\" 1/2",
+    "price": 1.303
+  },
+  {
+    "code": "PC2408025",
+    "description": "PERFIL CE 240x80x25x2,5 (x12m)",
+    "price": 1.15
+  },
+  {
+    "code": "Z0101321",
+    "description": "CAÑO RED 4\" x 3,2",
+    "price": 1.182
+  },
+  {
+    "code": "TAP1450",
+    "description": "TORNILLO AUTOPERFORANTE 14x2\"",
+    "price": 0.085
+  },
+  {
+    "code": "UC5025",
+    "description": "U CHICO 50 x 25 (x6m)",
+    "price": 1.823
+  },
+  {
+    "code": "Z0110321",
+    "description": "CAÑO RED 4\" 1/2 x 3,2",
+    "price": 1.182
+  },
+  {
+    "code": "Z0076321",
+    "description": "CAÑO RED 3\" x 3,2",
+    "price": 1.182
+  },
+  {
+    "code": "BISREV80CC",
+    "description": "Bis/Rev 80 mm Ala C/C",
+    "price": 0.7
+  },
+  {
+    "code": "PASCHACROM",
+    "description": "Pasador Charol 46x38 crom",
+    "price": 1.315
+  },
+  {
+    "code": "Z0035090",
+    "description": "CAÑO RED 1\" 3/8 x 0,9",
+    "price": 1.406
+  },
+  {
+    "code": "CHLOZA20",
+    "description": "CH LF 20 (1.300 x 2.055)",
+    "price": 1.353
+  },
+  {
+    "code": "DN001600",
+    "description": "HIERRO TORSIONADO 16 (x12m)",
+    "price": 1.31
+  },
+  {
+    "code": "GL020103",
+    "description": "CH GALVA PERF 20 (1 x 3)",
+    "price": 33.66
+  },
+  {
+    "code": "MDGRANADA",
+    "description": "M/D GRANADA (1,50 x 2)",
+    "price": 43
+  },
+  {
+    "code": "P0025063",
+    "description": "PLANCHUELA 1\" x 1/4",
+    "price": 1.277
+  },
+  {
+    "code": "UC6030",
+    "description": "U CHICO 60 x 30 (x6m)",
+    "price": 1.887
+  },
+  {
+    "code": "EC2.5",
+    "description": "ELECT CONARCO 2.5 mm",
+    "price": 7.72
+  },
+  {
+    "code": "DISCOR11516",
+    "description": "DISCO CORTE 115 X 1.6",
+    "price": 0.66
+  },
+  {
+    "code": "N063156",
+    "description": "CH LC 1/4\" (1,50 x 6)",
+    "price": 1.081
+  },
+  {
+    "code": "N048156",
+    "description": "CH LC 3/16\" (1,50 x 6)",
+    "price": 1.07
+  },
+  {
+    "code": "Z0019201M",
+    "description": "CAÑO RED 3/4\" x 2",
+    "price": 1.273
+  },
+  {
+    "code": "Y5150161",
+    "description": "CAÑO RECT 50 x 150 x 1,6",
+    "price": 1.406
+  },
+  {
+    "code": "ZN0012251",
+    "description": "CAÑO USO MECÁNICO 1/2\"",
+    "price": 1.71
+  },
+  {
+    "code": "DN002000",
+    "description": "HIERRO D/N 20 mm (x12m)",
+    "price": 1.285
+  },
+  {
+    "code": "Y5150201",
+    "description": "CAÑO RECT 50x150x2",
+    "price": 1.362
+  },
+  {
+    "code": "LR005045",
+    "description": "LAM RED 2\" (SAE 1045)",
+    "price": 2.16
+  },
+  {
+    "code": "LR003810",
+    "description": "LAM RED 1\" 1/2 (SAE 1010)",
+    "price": 2.062
+  }
+]
