@@ -121,26 +121,63 @@
 }
 
 /* Download type */
-.downloadType { display: flex; justify-content: space-between; margin-top: 8px; font-weight: bold; color: #01579b; }
+.downloadType {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 8px;
+  font-weight: bold;
+  color: #01579b;
+}
 
+/* Constancia table styling */
 .tableContainer {
   overflow-x: auto;
   margin-top: 1rem;
 }
-
 .table {
   width: 100%;
   border-collapse: collapse;
 }
-
 .table th,
 .table td {
   border: 1px solid #ccc;
   padding: 8px;
   text-align: left;
 }
-
 .table th {
   background-color: #f0f4f8;
   font-weight: 600;
+}
+
+/* Responsive tweaks */
+.container {
+  margin: 0 auto;
+  padding: 1rem;
+  max-width: 600px;
+  width: 90%;
+}
+
+/* Responsive grids */
+.grid4,
+.grid5,
+.grid3 {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.grid4 { grid-template-columns: repeat(4, 1fr); }
+.grid5 { grid-template-columns: 1.5fr 1fr 1fr 1fr 1fr; }
+.grid3 { grid-template-columns: repeat(3, 1fr); }
+
+/* Mobile (<600px): single column + full-width controls */
+@media (max-width: 600px) {
+  .grid4,
+  .grid5,
+  .grid3 {
+    grid-template-columns: 1fr !important;
+  }
+
+  .tableContainer {
+    overflow-x: scroll;
+  }
 }
