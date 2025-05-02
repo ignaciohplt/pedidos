@@ -8,8 +8,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "googleapis": "^148.0.0",
+    "next": "latest",
+    "pdfkit": "^0.17.0",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-dom": "latest"
   }
 }

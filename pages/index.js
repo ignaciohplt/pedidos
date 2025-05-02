@@ -82,6 +82,30 @@ export default function Home() {
     const arr = [...items]; arr[i][field] = val; setItems(arr);
   };
 
+// Dentro de Home(), antes del return(...)
+const generatePdf = async () => {
+  try {
+    const res = await fetch('/api/upload', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        pedidoNumber,
+        pedidoTime,
+        clientData,
+        dispatchData,
+        items,
+        vendorCode,
+        tipoDescarga
+      })
+    })
+    if (!res.ok) throw new Error()
+    const { fileId } = await res.json()
+    alert(`PDF subido con éxito (fileId: ${fileId})`)
+  } catch {
+    alert('Error al generar o subir el PDF')
+  }
+}
+
   // Validación de completitud
   const allFilled =
     pedidoNumber &&
@@ -217,6 +241,15 @@ export default function Home() {
       <div className={allFilled ? styles.complete : styles.incomplete}>
         {allFilled ? 'COMPLETO' : 'INCOMPLETO'}
       </div>
+
+{/* Botón para generar PDF y subir a Drive */}
+<button
+  className={styles.generateBtn}
+  disabled={!allFilled}
+  onClick={generatePdf}
+>
+  Generar PDF y subir a Drive
+</button>
 
       {/* Sector 4: Constancia de Envío */}
 <section className={styles.section}>
